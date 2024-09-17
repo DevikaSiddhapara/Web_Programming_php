@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action="script11_1.php" method="GET">
+<form action="script16_1.php" method="GET">
         Enter Your Name:<input type="text" name="name"><br>
          <input type="submit">
 </form>
